@@ -31,13 +31,5 @@ to identify sales trends, top products, and high-revenue categories.
 This dashboard helps business stakeholders make data-driven decisions
 by understanding sales performance and customer behavior.
 
-
-## Documentation
-Detailed task documentation is available in the `documentation` folder.
-
-## Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
-
-
 ## Author
 Karthikeya Kancharla
