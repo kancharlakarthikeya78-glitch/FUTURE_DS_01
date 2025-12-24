@@ -1,6 +1,7 @@
 # Business Sales Dashboard from E-commerce Data
 
 Name: K.KARTHIKEYA
+Mail: kancharlakarthikeya78@gmail.com
 ## Internship
 Future Interns – Data Science & Analytics  
 Task Code: DS  
